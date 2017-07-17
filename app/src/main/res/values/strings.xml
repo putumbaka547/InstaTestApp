@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="no_posts">No posts to view!</string>
+    <string name="user_posts">User Posts</string>
+    <string name="user_name">User Name: %s </string>
+    <string name="multi_comments">%d comments</string>
+    <string name="single_comment">%d comment</string>
+    <string name="no_comments">No Comments</string>
+</resources>
